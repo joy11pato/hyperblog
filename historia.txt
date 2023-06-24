@@ -24,3 +24,6 @@ master 4
 experimento 3
 
 Readme cherry-pick
+incluye linux y mac
+
+disponible para todas las edades
